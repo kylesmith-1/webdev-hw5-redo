@@ -1,0 +1,35 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+
+Kyle Smith
+
+2. What hostname did you deploy to?
+
+hw05.devcalibur.com
+
+3. Which parts of this assignment did you have trouble with, if any?
+
+Getting connections with elixir channels functionality working.
+
+4. What part of your application state is on the server?
+
+All of it: guesses, secret. 
+
+5. What part of your application state, if any, is in the browser?
+
+Guesses, bulls, and cows, as well as win/loss get passed to the JS
+front end by the channels. But none of that is logically delt with
+in the brower, and the secret is not there.
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+
